@@ -1,0 +1,1 @@
+This will download and create a folder called "test" on your local disk. If there are any files in it, all of them will be downloaded into the "test" folder.
